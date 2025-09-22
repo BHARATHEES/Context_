@@ -7,6 +7,8 @@ import { CartProvider } from './contexts/CartContext';
 function App() {
   return (
     <>
+
+    <h1>dudeits sentil</h1>
     <ThemeProvider>
       <AuthProvider>
         <CartProvider>
